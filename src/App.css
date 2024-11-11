@@ -5,6 +5,14 @@
   text-align: center;
 }
 
+.counter-display {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
